@@ -2,9 +2,10 @@
 
 
 
+
 ## d. Linux
 
-
+LinuxTree: ![Tree](https://github.com/demsks/CSCI2961/blob/master/Images/LinuxTree.png)
 
 ## e. Regex
 
@@ -32,3 +33,4 @@ RegexCrossword: ![CrossWord](https://github.com/demsks/CSCI2961/blob/master/Imag
 Blockly: ![Blockly](https://github.com/demsks/CSCI2961/blob/master/Images/blockly.png)
 
 ## g. Reflection
+
