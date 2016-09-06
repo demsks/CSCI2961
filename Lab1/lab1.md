@@ -55,5 +55,5 @@ Blockly: ![Blockly](https://github.com/demsks/CSCI2961/blob/master/Images/blockl
 
 I have never worked on an Open Source project, so the path for finding a project to work on is certainly a new one for me. However, I 
 am finding a plethora of information online which essentially outlines not only how to get involved, but how to be useful. There is a 
-Reddit thread dedicated to Newer Programmers getting involved in Open Source that I found which I will be going through thuroughly in 
+Reddit thread dedicated to Newer Programmers getting involved in Open Source that I found which I will be going through thoroughly in 
 addition to the links that Professor Krishnamoorthy has provided. 
