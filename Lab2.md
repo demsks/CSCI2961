@@ -35,8 +35,8 @@ Note: GPL is the most popular software license. The BSD is a very permissive lic
 
 ## (8) Create a repository and choose a license
 
-I chose MIT locense as I want my software to be available to anyone for anything that they wish. 
-TODO: Insert link
+I chose to create this classes repository, located  [here](https://github.com/demsks/CSCI2961)
+I choose to give the class repository an MIT license to allow the teacher, or whomever, to reference the work. 
 
 
 ## (9) I plan on altering something on Hack-rpi or Rcos. The users will be students, staculty, and staff here on campus. I was specifically interested in the BettereteBinder project as it will give students a means to store and share notes, handouts, and past exams. The license currently used by the software is MIT, so if I did decide to work on it, I would choose to keep the MIT license. 
