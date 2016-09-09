@@ -35,7 +35,8 @@ Note: GPL is the most popular software license. The BSD is a very permissive lic
 
 ## (8) Create a repository and choose a license
 
-I chose to create this classes repository, located  [here](https://github.com/demsks/CSCI2961)
+I chose to create this classes repository, located  [here](https://github.com/demsks/CSCI2961).
+
 I choose to give the class repository an MIT license to allow the teacher, or whomever, to reference the work. 
 
 
