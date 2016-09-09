@@ -26,6 +26,7 @@ Linux chose to switch to a GPL license, a copyleft license, to allow integration
 
 ## (6) Example Project. Pick a license as a group using license chooser on github. 
 
+A project I am interested in starting is a better note taking application for my Surface Pro machine. The applications available for the device currently is less than stellar. The license I choose is the MIT license as I want anyone to be able to do anything they want with it. 
 
 ## (7) Read these licenses GPL, LGPL and Apache/BSD and discuss which one will be better, for a developer, for a company and for the common good
 
