@@ -22,7 +22,7 @@ combined had a snowball effect which may have ultimately led to the fall of Goph
 
 ## (5) Justification for Linux using the GPLv2 license
 
-Linux chose to switch to a GPL license, a copyleft license, to allow integration with GNU components. The license which they had started with barred distributing the code for money, a term which made total integration with GNU not possible. As to why they are still using GPLv2 over GPLv3, well I think the answer may be two fold. One reason is that they would need everyone who ever contributed to the codebase to sign off on the switch and, if they declined, the code from the contributor(s) would have to be removed or redone. Secondly, Linus expressed dislike with GPLv3 for several reasons and stated that v3 was not a good succesor to v2. 
+Linux's to switch to a GPL license, a copyleft license, ultimately allowed for integration with GNU components. The license which they had started with barred distributing the code for money, a term which made total integration with GNU not possible. As to why they are still using GPLv2 over GPLv3, well I think the answer may be two fold. One reason is that they would need everyone who ever contributed to the codebase to sign off on the switch and, if they declined, the code from the contributor(s) would have to be removed or redone. Secondly, Linus expressed dislike with GPLv3 for several reasons and stated that v3 was not a good succesor to v2. 
 
 ## (6) Example Project. Pick a license as a group using license chooser on github. 
 
@@ -41,7 +41,7 @@ I chose to create this classes repository, located  [here](https://github.com/de
 I choose to give the class repository an MIT license to allow the teacher, or whomever, to reference the work. 
 
 
-## (9) I plan on altering something on Hack-rpi or Rcos. The users will be students, staculty, and staff here on campus. I was specifically interested in the BettereteBinder project as it will give students a means to store and share notes, handouts, and past exams. The license currently used by the software is MIT, so if I did decide to work on it, I would choose to keep the MIT license. 
+## (9) I plan on working with something from Rcos. The users will be students, staculty, and staff here on campus. I was specifically interested in the BettereteBinder project as it will give students a means to store and share notes, handouts, and past exams. The license currently used by the software is MIT, so if I did decide to work on it, I would choose to keep the MIT license. 
 
 ## (10) Choose 5 projects from links provided and create a table giving the website, whether a license is present, and the type of license. 
 
