@@ -12,7 +12,9 @@ https://github.com/demsks/CSCI2961Lab3
 https://github.com/demsks/Spoon-Knife
 
 ### First Four Levels from Learn Git Branching
-TODO: Include Screenshot
+![Log](https://github.com/demsks/CSCI2961/Images/gitbranchpicture.png)
+
+
 
 # Part 3
 
