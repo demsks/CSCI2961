@@ -1,17 +1,24 @@
-## Image of Log:
+# Part 1
 
-Log: ![Log](https://github.com/demsks/CSCI2961/blob/master/Images/log.png)
-
-## Link to Lab3part1: 
+### Link to Lab3part1: 
 https://github.com/demsks/CSCI2961Lab3
 
-## Link to Spoon-Knife forked Repository
+### Image of Log:
+![Log](https://github.com/demsks/CSCI2961/blob/master/Images/log.png)
+
+# Part 2
+
+### Link to Spoon-Knife forked Repository
 https://github.com/demsks/Spoon-Knife
 
-## Link to courseproject Repository
+### First Four Levels from Learn Git Branching
+TODO: Include Screenshot
+
+# Part 3
+
+### Link to courseproject Repository
 https://github.com/demsks/courseproject
 
 
-## Link to group Assignment Page
-
+### Link to group Assignment Page
 https://github.com/calerc1/Story-Fall2016
