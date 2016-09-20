@@ -23,4 +23,4 @@ https://github.com/demsks/courseproject
 
 
 ### Link to group Assignment Page
-https://github.com/calerc1/Story-Fall2016
+https://github.com/demsks/Story-Fall2016/tree/Table2
