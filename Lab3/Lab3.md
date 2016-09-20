@@ -12,7 +12,7 @@ https://github.com/demsks/CSCI2961Lab3
 https://github.com/demsks/Spoon-Knife
 
 ### First Four Levels from Learn Git Branching
-![Log](https://github.com/demsks/CSCI2961/Images/gitbranchpicture.png)
+![Log](https://github.com/demsks/CSCI2961/blob/master/Images/gitbranchpicture.png)
 
 
 
