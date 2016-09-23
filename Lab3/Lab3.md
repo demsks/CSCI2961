@@ -1,4 +1,4 @@
-# Part 1
+# Part 1:
 
 ### Link to Lab3part1: 
 https://github.com/demsks/CSCI2961Lab3
@@ -6,7 +6,7 @@ https://github.com/demsks/CSCI2961Lab3
 ### Image of Log:
 ![Log](https://github.com/demsks/CSCI2961/blob/master/Images/log.png)
 
-# Part 2
+# Part 2:
 
 ### Link to Spoon-Knife forked Repository
 https://github.com/demsks/Spoon-Knife
@@ -16,7 +16,7 @@ https://github.com/demsks/Spoon-Knife
 
 
 
-# Part 3
+# Part 3:
 
 ### Link to courseproject Repository
 https://github.com/demsks/courseproject
