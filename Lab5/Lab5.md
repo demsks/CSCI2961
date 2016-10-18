@@ -261,7 +261,7 @@ double sqrtTable[] = {
 0};
 ```
 
-
+## Steps 1-5 with Tests shown
 
 ### Step 1
 
