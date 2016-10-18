@@ -50,8 +50,12 @@ gitstats results:
 * Lines of code: 13,697
 * Number of Contributors: 5
 
-Comments: 
+### Comments: 
 The numbers of projects and authors are different for all of the projects. All of the other information that was checked was the same
+
+### Gource installation proof
+![Gource](https://github.com/demsks/CSCI2961/blob/master/Images/GourceLab6.png)
+
 
 
 
