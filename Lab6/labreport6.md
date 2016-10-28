@@ -59,6 +59,9 @@ The numbers of projects and authors are different for all of the projects. All o
 
 ## Part 2
 
+The modified code is [located here](https://github.com/demsks/CSCI2961/tree/master/Lab6/ChangedFiles)
+The screen grab of the proof the code works as planned is located 
+![pic](https://github.com/demsks/CSCI2961/blob/master/Lab6/Lab7_results.PNG)
 
 
 
