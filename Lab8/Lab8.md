@@ -1,6 +1,6 @@
 1. Read chapter 9 and/or review slides given	-- **Completed**
 2. Read on the background of Association Rule Mining and install the two packages listed.	-- **Completed**
-3. Implement 2-3 Association rules for the Graduate Admissions Data Set given
+3. Implement an Association rule for the Graduate Admissions Data Set given
 	* For the Grad student data set provided, we see that there are 273 students not admitted and 127 students admitted. 
 	
 4. Try Different Visualizations shown in Chapter 9 of the book	-- **Completed**
