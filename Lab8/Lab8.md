@@ -11,8 +11,8 @@
 
 
 
-
 ---Code used to implement the R association rules---
+
 rules.all <- apriori(admissions)
 inspect(rules.all)
 rules <- apriori(admissions, control = list(verbose=F),
@@ -218,3 +218,6 @@ plot(rules, method="graph", control=list(type="items"))
 plot(rules, method="paracoord", control=list(reorder=TRUE))
 
 ---Screen caps of the above plots---
+![1](https://github.com/demsks/CSCI2961/blob/master/Lab8/Lab8%20Photo/lab8_1.png)
+![2](https://github.com/demsks/CSCI2961/blob/master/Lab8/Lab8%20Photo/lab8_2.png)
+![3](https://github.com/demsks/CSCI2961/blob/master/Lab8/Lab8%20Photo/lab8_3.png)
